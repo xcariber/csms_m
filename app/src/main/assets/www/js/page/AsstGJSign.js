@@ -319,6 +319,7 @@ uploadSignFile(imgURL, svc_fleNm, function(){
 
 
 /// 서명사진파일리스트 웹서비스 ///////////////////////////////////////////
+/// 서명사진파일리스트 웹서비스 ///////////////////////////////////////////
 function wsAsstSignInfo(callback) {
 
     var url = ws_url + 'GetAsstSignFile';
